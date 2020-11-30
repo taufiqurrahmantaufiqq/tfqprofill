@@ -1,6 +1,6 @@
 # Site
 title:              Taufiqurrahman
-bio:                'Hai, Nama saya Taufiqurrahman, Mahasiswa Jurusan Sistem Informasi Fakultas Sains dan Teknologi di UIN Suska Riay.'
+bio:                'Hai, Nama saya Taufiqurrahman, Mahasiswa <a href="http://sif.uin-suska.ac.id/">Jurusan Sistem Informasi</a> Fakultas Sains dan Teknologi di <a href="http://uin-suska.ac.id/">UIN Suska Riau</a>.'
 description:        "Ini adalah Git Page Pertama saya menggunakan tema dari Jekyll."
 reading_time:       true
 words_per_minute:   200
